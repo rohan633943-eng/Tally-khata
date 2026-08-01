@@ -1,0 +1,6 @@
+{
+  "name": "Tally Khata",
+  "description": "Tally Khata (ট্যালি খাতা) - Professional Ledger Book & Business Accounting App with Dual Language Support, Customer Balances, Reports & Security PIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
